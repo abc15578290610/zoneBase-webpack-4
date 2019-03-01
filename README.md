@@ -1,3 +1,9 @@
+[![npm][npm]][npm-url]
+[![deps][deps]][deps-url]
+[![test][test]][test-url]
+[![coverage][cover]][cover-url]
+[![chat][chat]][chat-url]
+
 # zoneBase-webpack-4
 zoneBase-webpack-4 is a Webpack 4 simple example to quickly build a web application
 
