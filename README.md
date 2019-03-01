@@ -1,8 +1,15 @@
-[![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
-[![test][test]][test-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
+[npm]: https://img.shields.io/npm/v/html-loader.svg
+[npm-url]: https://github.com/abc15578290610/zoneBase-webpack-4
+
+[deps]: https://david-dm.org/webpack/html-loader.svg
+[deps-url]: https://github.com/abc15578290610/zoneBase-webpack-4
+
+[chat]: https://img.shields.io/badge/gitter-webpack%2Fwebpack-brightgreen.svg
+[chat-url]: https://github.com/abc15578290610/zoneBase-webpack-4
+
+[cover]: https://codecov.io/gh/webpack/html-loader/branch/master/graph/badge.svg
+[cover-url]: https://github.com/abc15578290610/zoneBase-webpack-4
+
 
 # zoneBase-webpack-4
 zoneBase-webpack-4 is a Webpack 4 simple example to quickly build a web application
