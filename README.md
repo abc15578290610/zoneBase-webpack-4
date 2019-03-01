@@ -1,3 +1,8 @@
+[![npm][npm]][npm-url]
+[![deps][deps]][deps-url]
+[![coverage][cover]][cover-url]
+[![chat][chat]][chat-url]
+
 [npm]: https://img.shields.io/npm/v/html-loader.svg
 [npm-url]: https://github.com/abc15578290610/zoneBase-webpack-4
 
